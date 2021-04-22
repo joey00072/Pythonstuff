@@ -1,10 +1,7 @@
 ---
 title: My first blog
 date: 2021-04-22T13:32:08.973Z
-tags:
-  - python
-  - code
-images: /images/avatar.png
+tags: ['python','code']
 ---
 ```python
 def fib(n):
