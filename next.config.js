@@ -39,3 +39,8 @@ module.exports = withBundleAnalyzer({
     return config
   },
 })
+
+module.exports = {
+  distDir: 'out',
+  target: 'serverless'
+}
