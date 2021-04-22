@@ -17,6 +17,7 @@ export default function App({ Component, pageProps }) {
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+          <script scr="/static/netlify-identity.js"></script>
         </Head>
         <DefaultSeo {...SEO} />
         <LayoutWrapper>
@@ -24,17 +25,6 @@ export default function App({ Component, pageProps }) {
         </LayoutWrapper>
       </MDXProvider>
     </ThemeProvider>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
     </>
   )
 }
