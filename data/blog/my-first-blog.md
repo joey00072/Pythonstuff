@@ -1,6 +1,6 @@
 ---
 title: My first blog
-date: 2021-04-22T13
+date: '2021-04-22'
 tags: ['python','code']
 ---
 ```python
