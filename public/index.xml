@@ -2,21 +2,31 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>PythonStuff</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <link>https://pythonstuff.com/blog</link>
       <description>Everything python</description>
       <language>en-us</language>
-      <managingEditor>address@yoursite.com (Joey00072)</managingEditor>
-      <webMaster>address@yoursite.com (Joey00072)</webMaster>
-      <lastBuildDate>Fri, 21 May 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
+      <managingEditor>00Shxf@gmail.com (Joey00072)</managingEditor>
+      <webMaster>00Shxf@gmail.com (Joey00072)</webMaster>
+      <lastBuildDate>Fri, 28 May 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://pythonstuff.com/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/code-sample</guid>
+    <guid>https://pythonstuff.com/blog/fractal-tree-in-python</guid>
+    <title>Fractal Tree in python</title>
+    <link>https://pythonstuff.com/blog/fractal-tree-in-python</link>
+    <description>undefined</description>
+    <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>Fractal Tree</category><category>python</category><category>pygame</category><category>recursion</category>
+  </item>
+
+  <item>
+    <guid>https://pythonstuff.com/blog/code-sample</guid>
     <title>Sample .md file</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/code-sample</link>
+    <link>https://pythonstuff.com/blog/code-sample</link>
     <description>Example of a markdown file with code blocks and syntax highlighting</description>
     <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
-    <author>address@yoursite.com (Joey00072)</author>
+    <author>00Shxf@gmail.com (Joey00072)</author>
     <category>markdown</category><category>code</category><category>features</category>
   </item>
 

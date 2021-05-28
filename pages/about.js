@@ -23,7 +23,7 @@ export default function About() {
               {siteMetadata.author}
             </h3>
             <div className="text-gray-500 dark:text-gray-400"></div>
-            <div className="text-gray-500 dark:text-gray-400"></div>
+            <div className="text-gray-500 dark:text-gray-400">s</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
               <SocialIcon kind="github" href={siteMetadata.github} />
