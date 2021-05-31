@@ -3,6 +3,7 @@ title: Fractal Tree in python
 date: '2021-05-28'
 tags: ['Fractal Tree','python','pygame','recursion']
 images: /static/images/photo_2021-01-17_18-57-11.jpg
+summary: Fractal Tree in python
 ---
 ![](/static/images/photo_2021-01-17_18-57-11.jpg)
 
@@ -131,5 +132,5 @@ Complete Code on Github
 Don`t forget to ⭐ on github
 <br/>
 
-![](/static/images/ftree.gif)
+<!-- ![](/static/images/ftree.gif) -->
 
