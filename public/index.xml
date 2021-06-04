@@ -7,27 +7,27 @@
       <language>en-us</language>
       <managingEditor>00Shxf@gmail.com (Joey00072)</managingEditor>
       <webMaster>00Shxf@gmail.com (Joey00072)</webMaster>
-      <lastBuildDate>Fri, 28 May 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 May 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://pythonstuff.com/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://pythonstuff.com/blog/read-csv-files-in-python</guid>
+    <title>Read CSV file in python</title>
+    <link>https://pythonstuff.com/blog/read-csv-files-in-python</link>
+    <description>Easy way to read CSV file in python</description>
+    <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>csv</category><category>python</category><category>pandas</category><category>file</category>
+  </item>
+
   <item>
     <guid>https://pythonstuff.com/blog/fractal-tree-in-python</guid>
     <title>Fractal Tree in python</title>
     <link>https://pythonstuff.com/blog/fractal-tree-in-python</link>
-    <description>undefined</description>
+    <description>Fractal Tree in python</description>
     <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
     <author>00Shxf@gmail.com (Joey00072)</author>
     <category>Fractal Tree</category><category>python</category><category>pygame</category><category>recursion</category>
-  </item>
-
-  <item>
-    <guid>https://pythonstuff.com/blog/code-sample</guid>
-    <title>Sample .md file</title>
-    <link>https://pythonstuff.com/blog/code-sample</link>
-    <description>Example of a markdown file with code blocks and syntax highlighting</description>
-    <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
-    <author>00Shxf@gmail.com (Joey00072)</author>
-    <category>markdown</category><category>code</category><category>features</category>
   </item>
 
     </channel>
