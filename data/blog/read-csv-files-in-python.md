@@ -49,7 +49,7 @@ with open('BTC-USD.csv','r') as csv_file:
 
 ```
 
-![](/static/images/read_csv-min.PNG)
+![](/static/images/read_csv-min.png)
 
 
 ## Pandas
@@ -70,7 +70,7 @@ df = pd.read_csv('BTC-USD.csv')
 print(df)
 
 ```
-![](/static/images/read_csv_2PNG-min.PNG)
+![](/static/images/read_csv_2PNG-min.png)
 
 **Note** Pandas read csv methoed return pandas dataframe object. Dont worry it is just like
 fancy array
