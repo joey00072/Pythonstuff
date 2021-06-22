@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "start": "next-remote-watch ./data",
-    "dev": "node fixer.js && next dev",
-    "build": "node fixer.js && next build && node ./scripts/generate-sitemap",
+    "dev": "next dev",
+    "build": "next build && node ./scripts/generate-sitemap",
     "serve": "next start",
     "analyze": "env ANALYZE=true next build",
     "prepare": "husky install"
