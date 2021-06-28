@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>00Shxf@gmail.com (Joey00072)</managingEditor>
       <webMaster>00Shxf@gmail.com (Joey00072)</webMaster>
-      <lastBuildDate>Tue, 22 Jun 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://pythonstuff.com/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://pythonstuff.com/blog/how-to-execute-a-program-or-call-a-system-command-from-python</guid>
+    <title>How to execute a program or call a system/shell command from Python</title>
+    <link>https://pythonstuff.com/blog/how-to-execute-a-program-or-call-a-system-command-from-python</link>
+    <description>Execute call a system command from Python.execute a other program from Python</description>
+    <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>os</category><category>python</category><category>subprocess</category><category>system</category>
+  </item>
+
+  <item>
+    <guid>https://pythonstuff.com/blog/read-parse-json-in-python</guid>
+    <title>Read/Parse json in python</title>
+    <link>https://pythonstuff.com/blog/read-parse-json-in-python</link>
+    <description>Read/Parse json in python,Converting json into dictionary.</description>
+    <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>json</category><category>python</category>
+  </item>
+
   <item>
     <guid>https://pythonstuff.com/blog/display_and_change_frame_rate_in_pygame</guid>
     <title>Display and change frame rate in pygame</title>

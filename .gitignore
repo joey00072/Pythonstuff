@@ -32,3 +32,6 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# temp code files for blog
+/temp
