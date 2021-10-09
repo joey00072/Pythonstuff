@@ -12,7 +12,8 @@ Whether it if the response from the API, or configuration of text editor you wil
 json stands Javascript Objct Notaion. Although it was build 
 for web and javascipt every langauge support interface with json.
 <br/>
-# Reading Json file in python
+
+## Reading Json file in python
 Reading json file is as easy as any other file.
 
 ```python
@@ -35,7 +36,7 @@ print(json_text)
 ```
 This gives json as a string which is not useful by itself. We need to parse it.
 
-# Pasaring Json in python
+## Pasaring Json in python
 
 Luckily parsing json is very easy in python. Python has inbuilt  module conveniently named json.
 Calling its load method will return dict.
@@ -54,7 +55,7 @@ print(json_dict)
 
 ```
 
-# Creating Json with dict
+## Creating Json with dict
 creatring json is easy to. We have provide dict to dump 
 method in json moudle.
 

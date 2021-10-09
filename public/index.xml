@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>00Shxf@gmail.com (Joey00072)</managingEditor>
       <webMaster>00Shxf@gmail.com (Joey00072)</webMaster>
-      <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 06 Oct 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://pythonstuff.com/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://pythonstuff.com/blog/Conways-Game-of-life-in-python</guid>
+    <title>Conways Game of Life in Python</title>
+    <link>https://pythonstuff.com/blog/Conways-Game-of-life-in-python</link>
+    <description>Conways Game of life is by far the most famous cellular automato. It is best example of how many simple thing can work thougher to create someting complex. If almot fells like real life</description>
+    <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>Game of Life</category><category>python</category><category>pygame</category><category>convolution</category>
+  </item>
+
   <item>
     <guid>https://pythonstuff.com/blog/how-to-execute-a-program-or-call-a-system-command-from-python</guid>
     <title>How to execute a program or call a system/shell command from Python</title>
