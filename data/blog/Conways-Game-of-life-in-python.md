@@ -3,13 +3,13 @@ title: Conways Game of Life in Python
 date: '2021-10-06'
 tags: ['Game of Life','python','pygame','convolution']
 images: /static/images/photo_2021-01-17_18-57-11.jpg
-summary: Conways Game of life is by far the most famous cellular automato. It is best example of how many simple thing can work thougher to create someting complex. If almot fells like real life
+summary: Conways Game of life is by far the most famous cellular automato. It is best example of how many simple thing can work thougher to create someting complex. If almost fells like real life
 ---
 ![](/static/images/life.gif)
 
 
 
-Conways Game of life is by far the most famous cellular automato. It is best example of how many simple thing can work thougher to create someting complex. If almot fells like real life
+Conways Game of life is by far the most famous cellular automato. It is best example of how many simple thing can work thougher to create someting complex. If almost fells like real life
 
 ## Rules of Life
 
