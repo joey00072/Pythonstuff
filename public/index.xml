@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>00Shxf@gmail.com (Joey00072)</managingEditor>
       <webMaster>00Shxf@gmail.com (Joey00072)</webMaster>
-      <lastBuildDate>Sun, 26 Dec 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Feb 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://pythonstuff.com/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://pythonstuff.com/blog/Brainfuck Interpreter in Python</guid>
+    <title>Brainfuck Interpreter in Python</title>
+    <link>https://pythonstuff.com/blog/Brainfuck Interpreter in Python</link>
+    <description>Basic introduction to closures in python. closure are inside function that remembers values of outside function. even when outside functions are over.</description>
+    <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+    <author>00Shxf@gmail.com (Joey00072)</author>
+    <category>python</category><category>brainfuck</category>
+  </item>
+
   <item>
     <guid>https://pythonstuff.com/blog/Closure in Python</guid>
     <title>Closure in Python</title>
